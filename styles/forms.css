@@ -1,0 +1,13 @@
+form {
+  margin-top: 3rem;
+}
+
+fieldset {
+  border: none;
+
+  gap: 1.5rem;
+  display: grid;
+}
+
+
+
